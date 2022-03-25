@@ -1,0 +1,16 @@
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\bin\Debug\net5.0\If-Else Ternary If.exe
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\bin\Debug\net5.0\If-Else Ternary If.deps.json
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\bin\Debug\net5.0\If-Else Ternary If.runtimeconfig.json
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\bin\Debug\net5.0\If-Else Ternary If.runtimeconfig.dev.json
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\bin\Debug\net5.0\If-Else Ternary If.dll
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\bin\Debug\net5.0\ref\If-Else Ternary If.dll
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\bin\Debug\net5.0\If-Else Ternary If.pdb
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\obj\Debug\net5.0\If-Else Ternary If.csproj.AssemblyReference.cache
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\obj\Debug\net5.0\If-Else Ternary If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\obj\Debug\net5.0\If-Else Ternary If.AssemblyInfoInputs.cache
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\obj\Debug\net5.0\If-Else Ternary If.AssemblyInfo.cs
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\obj\Debug\net5.0\If-Else Ternary If.csproj.CoreCompileInputs.cache
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\obj\Debug\net5.0\If-Else Ternary If.dll
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\obj\Debug\net5.0\ref\If-Else Ternary If.dll
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\obj\Debug\net5.0\If-Else Ternary If.pdb
+C:\Users\berfi\Sites\pratikler\If-Else Ternary If\obj\Debug\net5.0\If-Else Ternary If.genruntimeconfig.cache
